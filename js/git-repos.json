@@ -13,6 +13,6 @@ var mozGitRepos = [
   ["kitsune","mozilla/kitsune"],
   ["socorro","mozilla/socorro"],
   ["persona","mozilla/persona"],
-  ["picl-idp","mozilla/picl-idp"],
+  ["fxa-auth-server","mozilla/fxa-auth-server"],
   ["zamboni","mozilla/zamboni"]
 ];
