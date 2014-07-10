@@ -1,26 +1,26 @@
 var mozGitRepos = [
 
   ["prospector", "mozilla/prospector"],
-  ["collusion", "mozilla/collusion"],
+  ["lightbeam", "mozilla/lightbeam"],
   ["shumway", "mozilla/shumway"],
   ["pdf.js", "mozilla/pdf.js"],
   ["addon-sdk", "mozilla/addon-sdk"],
   ["r2d2b2g", "mozilla/r2d2b2g"],
-  ["towtruck", "mozilla/towtruck"],
+  ["togetherjs", "mozilla/togetherjs"],
   ["bedrock","mozilla/bedrock"],
   ["kuma","mozilla/kuma"],
   ["kitsune","mozilla/kitsune"],
   ["socorro","mozilla/socorro"],
-  ["browserid","mozilla/browserid"],
-  ["picl-idp","mozilla/picl-idp"],
+  ["persona","mozilla/persona"],
+  ["fxa-auth-server","mozilla/fxa-auth-server"],
   ["zamboni","mozilla/zamboni"],
-  
+
   // Rust repos
-  ["rust", "mozilla-servo/rust"],
-  ["rust-www", "mozilla-servo/rust-www"],
-  ["rust-playpen", "mozilla-servo/rust-playpen"],
-  ["cargo", "mozilla-servo/cargo"],
-  ["rfcs", "mozilla-servo/rfcs"],
+  ["rust", "rust-lang/rust"],
+  ["rust-www", "rust-lang/rust-www"],
+  ["rust-playpen", "rust-lang/rust-playpen"],
+  ["cargo", "rust-lang/cargo"],
+  ["rfcs", "rust-lang/rfcs"],
 
   // Servo repos
   ["servo", "mozilla/servo"], // Will later be moved to servo/servo 
