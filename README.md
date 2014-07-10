@@ -2,6 +2,8 @@
 
 How awesome are you among your peers? Find out in this leaderboard.
 
+**Note:** This branch is the client side version of the dashboard. You can find it in action [here](http://sankhs.com/leaderboard).
+
 ## Add your name
 
 To add your name, here is what you need to do:
